@@ -37,4 +37,4 @@ public class indexDTO extends HttpServlet {
 		doGet(request, response);
 	}
 
-}아 진짜
+}아 진짜aasdf
